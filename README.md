@@ -84,3 +84,10 @@ Shaders are written in GLSL versions 110, 330, and 440, using combined texture a
 7. **Large buffer generation and multithreading**  
    - Constants in `RectangleComponent` and `RectangleWindow`:  
      - `wholeRectangle = 200000` (number of rectangles)
+
+<img width="800" height="829" alt="RectangleComponent" src="https://github.com/user-attachments/assets/27f2b0b8-766d-4820-8e90-4c1ff3192535" />
+<img width="802" height="832" alt="RectangleWindow" src="https://github.com/user-attachments/assets/5752e304-a7a7-43df-8c21-747670fe7901" />
+<img width="640" height="513" alt="triangle" src="https://github.com/user-attachments/assets/43880919-9109-4d6e-8e24-cc381302d760" />
+
+
+
